@@ -1,0 +1,14 @@
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\bin\Debug\net8.0\CLASSES_N_OBJECTS.exe
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\bin\Debug\net8.0\CLASSES_N_OBJECTS.deps.json
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\bin\Debug\net8.0\CLASSES_N_OBJECTS.runtimeconfig.json
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\bin\Debug\net8.0\CLASSES_N_OBJECTS.dll
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\bin\Debug\net8.0\CLASSES_N_OBJECTS.pdb
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.AssemblyInfoInputs.cache
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.AssemblyInfo.cs
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.csproj.CoreCompileInputs.cache
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.dll
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\refint\CLASSES_N_OBJECTS.dll
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.pdb
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\CLASSES_N_OBJECTS.genruntimeconfig.cache
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\obj\Debug\net8.0\ref\CLASSES_N_OBJECTS.dll
