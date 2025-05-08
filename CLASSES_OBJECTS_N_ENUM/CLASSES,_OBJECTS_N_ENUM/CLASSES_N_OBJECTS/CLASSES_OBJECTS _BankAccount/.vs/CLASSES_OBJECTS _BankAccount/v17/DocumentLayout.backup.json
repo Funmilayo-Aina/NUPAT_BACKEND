@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\funmi\\OneDrive\\Desktop\\NUPAT\\BACKEND\\Personal_Tasks\\CLASSES_N_OBJECTS\\CLASSES_OBJECTS _BankAccount\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B9851-1B4E-4A9E-9D26-B596342A5AAB}|CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount.csproj|c:\\users\\funmi\\onedrive\\desktop\\nupat\\backend\\personal_tasks\\classes_n_objects\\classes_objects _bankaccount\\classes_objects _bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B9851-1B4E-4A9E-9D26-B596342A5AAB}|CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount.csproj|solutionrelative:classes_objects _bankaccount\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E79B9851-1B4E-4A9E-9D26-B596342A5AAB}|CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount.csproj|c:\\users\\funmi\\onedrive\\desktop\\nupat\\backend\\personal_tasks\\classes_n_objects\\classes_objects _bankaccount\\classes_objects _bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E79B9851-1B4E-4A9E-9D26-B596342A5AAB}|CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount.csproj|solutionrelative:classes_objects _bankaccount\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "C:\\Users\\funmi\\OneDrive\\Desktop\\NUPAT\\BACKEND\\Personal_Tasks\\CLASSES_N_OBJECTS\\CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount\\BankAccount.cs",
+              "RelativeDocumentMoniker": "CLASSES_OBJECTS _BankAccount\\BankAccount.cs",
+              "ToolTip": "C:\\Users\\funmi\\OneDrive\\Desktop\\NUPAT\\BACKEND\\Personal_Tasks\\CLASSES_N_OBJECTS\\CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount\\BankAccount.cs*",
+              "RelativeToolTip": "CLASSES_OBJECTS _BankAccount\\BankAccount.cs*",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAIwCMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:30:48.574Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\funmi\\OneDrive\\Desktop\\NUPAT\\BACKEND\\Personal_Tasks\\CLASSES_N_OBJECTS\\CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount\\Program.cs",
+              "RelativeDocumentMoniker": "CLASSES_OBJECTS _BankAccount\\Program.cs",
+              "ToolTip": "C:\\Users\\funmi\\OneDrive\\Desktop\\NUPAT\\BACKEND\\Personal_Tasks\\CLASSES_N_OBJECTS\\CLASSES_OBJECTS _BankAccount\\CLASSES_OBJECTS _BankAccount\\Program.cs*",
+              "RelativeToolTip": "CLASSES_OBJECTS _BankAccount\\Program.cs*",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACMAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:01:10.872Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

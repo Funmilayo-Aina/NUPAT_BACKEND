@@ -1,0 +1,14 @@
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\bin\Debug\net8.0\ENUM_ASSIGNMENT.exe
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\bin\Debug\net8.0\ENUM_ASSIGNMENT.deps.json
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\bin\Debug\net8.0\ENUM_ASSIGNMENT.runtimeconfig.json
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\bin\Debug\net8.0\ENUM_ASSIGNMENT.dll
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\bin\Debug\net8.0\ENUM_ASSIGNMENT.pdb
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.AssemblyInfoInputs.cache
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.AssemblyInfo.cs
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.csproj.CoreCompileInputs.cache
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.dll
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\refint\ENUM_ASSIGNMENT.dll
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.pdb
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ENUM_ASSIGNMENT.genruntimeconfig.cache
+C:\Users\funmi\OneDrive\Desktop\NUPAT\BACKEND\Personal_Tasks\CLASSES_N_OBJECTS\ENUM_ASSIGNMENT\ENUM_ASSIGNMENT\obj\Debug\net8.0\ref\ENUM_ASSIGNMENT.dll
